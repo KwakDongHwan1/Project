@@ -1,0 +1,3 @@
+관리자A assault,fainting,property_damage,stairway_fall,turnstile_trespassing 5184853548
+관리자B x 5547412240
+관리자C x 5482219056
