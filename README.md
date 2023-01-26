@@ -27,3 +27,30 @@
 ![image](https://user-images.githubusercontent.com/102405395/214780240-337f8799-e506-4a9e-9b42-8b95c5937a43.png)
 - 이름이랑 아이디를 적고 카테고리 선택후 우측상단 저장누르면 해당 이릉 관리자 등록칸에 등록
 - 해당 관리자가 필요없으면 우측 하단 삭제로 삭제 가능
+- 
+<h3>실행 프론트</h3>
+
+![image](https://user-images.githubusercontent.com/102405395/214782714-b82f0857-7099-4f5f-8dfa-96f552bb551e.png)
+- 화면 캡쳐에서 적용되는 화면을 웹페이지에서 볼 수 있음
+
+![image](https://user-images.githubusercontent.com/102405395/214782905-9df41083-091b-46ee-a76b-68374dbe05f7.png)
+- 대시보드 제공
+
+<h3>서비스 안내 프론트</h3>
+
+![image](https://user-images.githubusercontent.com/102405395/214781949-b83d667d-8faa-4a05-a8bd-3257813304d9.png)
+
+![image](https://user-images.githubusercontent.com/102405395/214782059-bb60b052-313c-4096-a878-9610a10b71b6.png)
+
+![image](https://user-images.githubusercontent.com/102405395/214782133-159653fe-c121-430f-9f81-c5e9d4ec042e.png)
+
+![image](https://user-images.githubusercontent.com/102405395/214782185-0117a5eb-c536-4d0e-9314-0c0d397561a3.png)
+
+![image](https://user-images.githubusercontent.com/102405395/214782207-34624cd9-eb23-4ae8-aacc-cdd0a15ecfe5.png)
+
+![image](https://user-images.githubusercontent.com/102405395/214783266-2fe6ebfe-1019-40a1-b0aa-44da5c82057d.png)
+- 4번인데 3번인거 오타
+
+<h3>프론트 폴더랑 yolo v5폴더는 용량으로 인해 업로드 불가함</h3>
+
+
